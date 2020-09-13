@@ -65,8 +65,14 @@ namespace MiCalculadora
             if (this.textNumero2.Text == "" || !int.TryParse(this.textNumero2.Text, out aux))
                 this.textNumero2.Text = "0";
 
-            if (this.comboBoxOperador.Text == "" || !int.TryParse(this.comboBoxOperador.Text, out aux))
+            if (this.comboBoxOperador.Text == "" || (this.comboBoxOperador.Text != "-" && 
+                this.comboBoxOperador.Text != "*" && this.comboBoxOperador.Text != "/" &&
+                this.comboBoxOperador.Text != "+"))
+            {
                 this.comboBoxOperador.Text = "+";
+            }
+                
+                
         }
    
         /// <summary>

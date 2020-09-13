@@ -104,7 +104,7 @@ namespace Entidades
         /// </summary>
         /// <param name="strNumero">Cadena a validar</param>
         /// <returns>Retorna en formato double la cadena recibida, de no recibir un numero retorna 0</returns>
-        private static double ValidarNumero(string strNumero)
+        private double ValidarNumero(string strNumero)
         {
             double numeroParseado;
             double.TryParse(strNumero, out numeroParseado);
