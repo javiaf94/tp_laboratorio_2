@@ -1,0 +1,13 @@
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP1 Forms\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
