@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTcjFDa8ZXrFdKjsYXn2nd1JXuRqaT5TPiSaex2za16J5fIoXm28+54D/Qnu1WJEbzEQV2NrkUXqSCoURpby4A==",
+  "dgSpecHash": "4zfpmGeDKjGKAXQ3ATTfCkwJ/9pZ52FOsTrhfD1h4r4mK7e3ud4VtSdHPtA/ue5gM0c1CWxA2w33aQ2w/Jpa8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\MiCalculadora\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\TP1_FernandezJavier_2c\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grabi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\grabi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

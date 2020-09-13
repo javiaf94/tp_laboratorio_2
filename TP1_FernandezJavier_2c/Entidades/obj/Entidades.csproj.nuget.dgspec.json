@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\MiCalculadora\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\TP1_FernandezJavier_2c\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\MiCalculadora\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\TP1_FernandezJavier_2c\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\MiCalculadora\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\TP1_FernandezJavier_2c\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\MiCalculadora\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\TP1_FernandezJavier_2c\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\grabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\MiCalculadora\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\grabi\\Documents\\Uni\\segundo cuatri\\Programacion\\TP1 Forms\\TP1_FernandezJavier_2c\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
