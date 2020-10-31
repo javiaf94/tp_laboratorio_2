@@ -1,0 +1,9 @@
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

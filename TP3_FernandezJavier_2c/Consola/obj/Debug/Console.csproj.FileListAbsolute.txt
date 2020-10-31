@@ -1,0 +1,7 @@
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ConsoleTP3\bin\Debug\ConsoleTP3.exe.config
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ConsoleTP3\bin\Debug\ConsoleTP3.exe
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ConsoleTP3\bin\Debug\ConsoleTP3.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ConsoleTP3\obj\Debug\Console.csprojAssemblyReference.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ConsoleTP3\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ConsoleTP3\obj\Debug\ConsoleTP3.exe
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ConsoleTP3\obj\Debug\ConsoleTP3.pdb

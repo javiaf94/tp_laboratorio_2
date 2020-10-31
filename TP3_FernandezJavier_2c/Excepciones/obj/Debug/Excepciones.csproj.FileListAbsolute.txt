@@ -1,0 +1,6 @@
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\Excepciones\obj\Debug\Excepciones.pdb

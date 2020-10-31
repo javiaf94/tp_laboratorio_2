@@ -1,0 +1,26 @@
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\ConsoleTP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\grabi\Desktop\TP 3\Fernandez.Javier.2c.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
