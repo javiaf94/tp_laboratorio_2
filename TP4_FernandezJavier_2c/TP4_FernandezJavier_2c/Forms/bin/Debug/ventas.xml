@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Venta>
+    <Instrumento xsi:type="Bajo">
+      <Marca>Ernie Ball</Marca>
+      <NumSerie>E03911091</NumSerie>
+      <Modelo>Music Man</Modelo>
+      <Precio>150000</Precio>
+      <Tipo>Activo</Tipo>
+    </Instrumento>
+    <Fecha>2020-11-23T01:31:46.7180675-03:00</Fecha>
+  </Venta>
+</ArrayOfVenta>

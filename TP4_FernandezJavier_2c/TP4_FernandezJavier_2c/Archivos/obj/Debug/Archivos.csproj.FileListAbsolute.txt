@@ -1,0 +1,9 @@
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\Archivos\bin\Debug\Archivos.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\Archivos\bin\Debug\Archivos.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\Archivos\obj\Debug\Archivos.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\Archivos\obj\Debug\Archivos.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\Archivos\bin\Debug\Excepciones.dll
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\Archivos\obj\Debug\Archivos.csproj.CopyComplete
