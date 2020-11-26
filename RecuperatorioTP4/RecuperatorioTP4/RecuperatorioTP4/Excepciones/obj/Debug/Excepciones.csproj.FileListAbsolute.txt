@@ -10,3 +10,9 @@ C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\R
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Excepciones\obj\Debug\Excepciones.pdb

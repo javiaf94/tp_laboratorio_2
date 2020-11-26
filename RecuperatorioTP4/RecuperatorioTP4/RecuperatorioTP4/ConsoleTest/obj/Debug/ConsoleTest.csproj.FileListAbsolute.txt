@@ -30,3 +30,19 @@ C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\R
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\ConsoleTest\obj\Debug\ConsoleTest.exe
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\BibliotecaClases.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\EntidadesDAO.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\Archivos.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\Excepciones.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\BibliotecaClases.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\EntidadesDAO.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\Archivos.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\bin\Debug\Excepciones.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\ConsoleTest\obj\Debug\ConsoleTest.pdb

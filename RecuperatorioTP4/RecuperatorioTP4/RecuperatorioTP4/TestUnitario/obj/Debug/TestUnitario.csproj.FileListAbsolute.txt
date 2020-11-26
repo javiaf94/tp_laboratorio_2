@@ -23,3 +23,28 @@ C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavie
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\TestUnitario\obj\Debug\TestUnitario.csproj.CopyComplete
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\TestUnitario\obj\Debug\TestUnitario.dll
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\TP4_FernandezJavier_2c\TP4_FernandezJavier_2c\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Archivos.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\BibliotecaClases.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\ConsoleTest.exe
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\EntidadesDAO.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Excepciones.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Archivos.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\BibliotecaClases.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\ConsoleTest.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\ConsoleTest.exe.config
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\EntidadesDAO.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Excepciones.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\obj\Debug\TestUnitario.csprojAssemblyReference.cache
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\obj\Debug\TestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\obj\Debug\TestUnitario.csproj.CopyComplete
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\TestUnitario\obj\Debug\TestUnitario.pdb

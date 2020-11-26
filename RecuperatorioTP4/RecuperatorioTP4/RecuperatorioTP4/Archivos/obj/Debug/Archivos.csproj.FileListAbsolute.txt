@@ -16,3 +16,12 @@ C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\R
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\Archivos\obj\Debug\Archivos.dll
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\Archivos\obj\Debug\Archivos.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Archivos\bin\Debug\Archivos.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Archivos\bin\Debug\Excepciones.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Archivos\obj\Debug\Archivos.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\Archivos\obj\Debug\Archivos.pdb

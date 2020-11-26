@@ -24,3 +24,16 @@ C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\R
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\EntidadesDAO\obj\Debug\EntidadesDAO.csproj.CopyComplete
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\EntidadesDAO\obj\Debug\EntidadesDAO.dll
 C:\Users\grabi\Documents\Uni\segundo cuatri\Programacion\TP 3\RecuperatorioTP4\RecuperatorioTP4_FernandezJavier_2c\RecuperatorioTP4_FernandezJavier_2c\EntidadesDAO\obj\Debug\EntidadesDAO.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\bin\Debug\EntidadesDAO.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\bin\Debug\EntidadesDAO.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\bin\Debug\BibliotecaClases.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\bin\Debug\Excepciones.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\bin\Debug\Archivos.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\bin\Debug\BibliotecaClases.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\bin\Debug\Excepciones.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\bin\Debug\Archivos.pdb
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\obj\Debug\EntidadesDAO.csprojAssemblyReference.cache
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\obj\Debug\EntidadesDAO.csproj.CoreCompileInputs.cache
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\obj\Debug\EntidadesDAO.csproj.CopyComplete
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\obj\Debug\EntidadesDAO.dll
+C:\Users\grabi\Downloads\tp_laboratorio_2-master (8)\tp_laboratorio_2-master\RecuperatorioTP4\RecuperatorioTP4\RecuperatorioTP4\EntidadesDAO\obj\Debug\EntidadesDAO.pdb

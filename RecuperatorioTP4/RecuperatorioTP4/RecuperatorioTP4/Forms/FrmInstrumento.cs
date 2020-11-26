@@ -281,17 +281,21 @@ namespace Forms
             try
             {
                 if (this.listInstrumentos.SelectedValue is Guitarra && InstrumentoDAO.EliminarGuitarra(this.txtSerie.Text) == 1)
+                {
                     MessageBox.Show("Se elimino correctamente la Guitarra");
-            
+                }            
                 else if(this.listInstrumentos.SelectedValue is Bajo && InstrumentoDAO.EliminarBajo(this.txtSerie.Text) == 1)
+                {
                     MessageBox.Show("Se elimino correctamente el Bajo");
+                }
+
                 this.ModificacionInstrumentos.Invoke();
+                this.Close();
             }
             catch(DatabaseException ex)
             {
                 MessageBox.Show(ex.Message + " Por favor intente nuevamente", "Error al eliminar");
             }
-            this.Close();
         }
     }
 }
