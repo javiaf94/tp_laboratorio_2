@@ -281,10 +281,10 @@ namespace Forms
             try
             {
                 if (this.listInstrumentos.SelectedValue is Guitarra && InstrumentoDAO.EliminarGuitarra(this.txtSerie.Text) == 1)
-                    MessageBox.Show("Se elimino correctamente el instrumento");
+                    MessageBox.Show("Se elimino correctamente la Guitarra");
             
-                else if(this.listInstrumentos.SelectedValue is Bajo && InstrumentoDAO.EliminarGuitarra(this.txtSerie.Text) == 1)
-                    MessageBox.Show("Se elimino correctamente el instrumento");
+                else if(this.listInstrumentos.SelectedValue is Bajo && InstrumentoDAO.EliminarBajo(this.txtSerie.Text) == 1)
+                    MessageBox.Show("Se elimino correctamente el Bajo");
                 this.ModificacionInstrumentos.Invoke();
             }
             catch(DatabaseException ex)
